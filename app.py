@@ -32,4 +32,3 @@ if type(output) is list:
 else:
 	print(output)
 	
-	
